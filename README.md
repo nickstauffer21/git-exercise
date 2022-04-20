@@ -1,2 +1,2 @@
 # git-exercise
-Something small
+Something even smaller
